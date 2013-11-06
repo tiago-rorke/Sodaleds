@@ -8,7 +8,7 @@ All design files licensed under the terms of the [Creative Commons Attribution-N
 
 ![](http://farm8.staticflickr.com/7396/10709512273_b15f752e4c_o.jpg)
 
-![](http://farm4.staticflickr.com/3778/10709281685_e9c5e96e80_c.jpg)
+![](http://farm6.staticflickr.com/5488/10709335106_53d182440e_o.jpg)
 
 ![](http://farm8.staticflickr.com/7346/10709401335_fe8afc8981_c.jpg)
 
