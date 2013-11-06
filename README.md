@@ -4,6 +4,8 @@ Modular rectangular LED construction kit. Simple pcb frames allow blocks of 8 le
 
 Contributed to the 2013 Open Mobile project coordinated by [Rita Sá](http://www.rita-sa.com/index.html), with help from [Alt-lab](http://altlab.org/).
 
+All design files licensed under the terms of the [Creative Commons Attribution-NonCommercial-ShareAlike License.](http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode)
+
 ![](http://farm8.staticflickr.com/7396/10709512273_b15f752e4c_o.jpg)
 
 ![](http://farm4.staticflickr.com/3778/10709281685_e9c5e96e80_c.jpg)
