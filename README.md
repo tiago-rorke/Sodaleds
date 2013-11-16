@@ -6,7 +6,7 @@ Contributed to the 2013 Open Mobile project coordinated by [Rita Sá](http://www
 
 All design files licensed under the terms of the [Creative Commons Attribution-NonCommercial-ShareAlike License.](http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode)
 
-#Parts List
+###Parts List
 
 Each panel (7 boards) requires 56 LEDs, and 14 resistors.
 *	LEDs Rectangular, 5 x 2 x 7mm:
